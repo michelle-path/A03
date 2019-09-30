@@ -1,5 +1,4 @@
 # A03
-#St
 GIT is a place to store the source code for a project and track the complete history of all changes to that code
 
 GITHUB is a web-based version-control and collaboration platform for software developers
